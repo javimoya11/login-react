@@ -1,4 +1,4 @@
-const Home = () => {
+const Forgot = () => {
     return (
         <div className="test">
             Hello World!
@@ -6,4 +6,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default Forgot;

@@ -18,6 +18,8 @@
     "preview": "set VITE_CJS_IGNORE_WARNING=true && vite preview"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.48.1",
+    "postgres": "^3.4.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.4.1"
